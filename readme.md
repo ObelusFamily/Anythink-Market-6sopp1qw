@@ -11,8 +11,8 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 ## First setup
 ---
 - ## **Install Docker**
-- ## **Check docker using docker-v**
-- ## **`cd` into diretory**
-- ## **run docker-compose-up**
+- ## **Check docker by `docker -v`**
+- ## **`cd1` into directory**
+- ## **run `docker compose up`**
 ---
 
