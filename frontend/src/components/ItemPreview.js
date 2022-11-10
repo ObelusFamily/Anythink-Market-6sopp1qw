@@ -36,7 +36,7 @@ const ItemPreview = (props) => {
     >
       <img
         alt="item"
-        src={item.image}
+        src="https://images.unsplash.com/photo-1667812222504-38e589c17bd6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=687&q=80s"
         className="card-img-top item-img"
         style={{ borderRadius: "20px" }}
       />
