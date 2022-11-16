@@ -4,7 +4,7 @@ import agent from "../agent";
 import { connect } from "react-redux";
 import { ITEM_FAVORITED, ITEM_UNFAVORITED } from "../constants/actionTypes";
 
-const fallBackImg = 'placeholder.pngnp'
+const fallBackImg = "placeholder.pngnp";
 const mapDispatchToProps = (dispatch) => ({
   favorite: (slug) =>
     dispatch({
